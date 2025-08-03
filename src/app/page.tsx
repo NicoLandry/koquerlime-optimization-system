@@ -51,7 +51,7 @@ export default function Home() {
               priority
             />
             <p className="text-xl text-gray-300 mt-8 italic font-serif max-w-3xl mx-auto">
-              "Behold the Ordained Leader of the Koquerlime Movement, crowned with the Sacred Authority to guide humanity toward its ultimate potential"
+              &quot;Behold the Ordained Leader of the Koquerlime Movement, crowned with the Sacred Authority to guide humanity toward its ultimate potential&quot;
             </p>
           </div>
         </div>
@@ -123,7 +123,7 @@ export default function Home() {
               
               <div className="text-xl text-gray-300 leading-relaxed space-y-8 font-serif">
                 <p className="text-3xl text-center italic text-yellow-300 mb-12">
-                  "The first step toward transcendence is recognizing the limitations of your current existence..."
+                  &quot;The first step toward transcendence is recognizing the limitations of your current existence...&quot;
                 </p>
                 
                 <p>
@@ -163,7 +163,7 @@ export default function Home() {
               
               <div className="text-xl text-gray-300 leading-relaxed space-y-8 font-serif">
                 <p className="text-3xl text-center italic text-blue-300 mb-12">
-                  "True optimization begins when you learn to operate according to the Natural Laws of Efficiency..."
+                  &quot;True optimization begins when you learn to operate according to the Natural Laws of Efficiency...&quot;
                 </p>
                 
                 <p>
@@ -192,7 +192,7 @@ export default function Home() {
               
               <div className="text-xl text-gray-300 leading-relaxed space-y-8 font-serif">
                 <p className="text-3xl text-center italic text-green-300 mb-12">
-                  "Integration is where the individual transcends limitation and becomes a force of pure efficiency..."
+                  &quot;Integration is where the individual transcends limitation and becomes a force of pure efficiency...&quot;
                 </p>
                 
                 <p>
@@ -221,7 +221,7 @@ export default function Home() {
               
               <div className="text-xl text-gray-300 leading-relaxed space-y-8 font-serif">
                 <p className="text-3xl text-center italic text-red-300 mb-12">
-                  "Mastery is achieved when optimization becomes as natural as breathing..."
+                  &quot;Mastery is achieved when optimization becomes as natural as breathing...&quot;
                 </p>
                 
                 <p>
@@ -250,7 +250,7 @@ export default function Home() {
               
               <div className="text-xl text-gray-300 leading-relaxed space-y-8 font-serif">
                 <p className="text-3xl text-center italic text-yellow-300 mb-12">
-                  "The question is not whether you can achieve optimization. The question is whether you will."
+                  &quot;The question is not whether you can achieve optimization. The question is whether you will.&quot;
                 </p>
                 
                 <p>

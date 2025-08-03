@@ -198,7 +198,7 @@ export default function CreditCardModal({ isOpen, onClose }: CreditCardModalProp
           {/* Success Testimonial */}
           <div className="mt-10 p-8 bg-gradient-to-r from-blue-900/30 to-gray-800/50 rounded-2xl border-2 border-blue-400/30">
             <p className="text-center text-gray-300 font-serif text-lg leading-relaxed mb-4">
-              "Within 48 hours of starting Level I, I experienced a complete transformation in my mental clarity and decision-making capabilities. The Koquerlime methodology isn't just theory - it's a practical system that delivers measurable results. I now operate at a level of efficiency I never thought possible."
+              &quot;Within 48 hours of starting Level I, I experienced a complete transformation in my mental clarity and decision-making capabilities. The Koquerlime methodology isn&apos;t just theory - it&apos;s a practical system that delivers measurable results. I now operate at a level of efficiency I never thought possible.&quot;
             </p>
             <p className="text-center text-sm text-blue-400 font-serif font-bold">
               - Marcus Chen, Level IV Master, Fortune 500 Executive
